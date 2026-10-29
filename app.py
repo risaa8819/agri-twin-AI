@@ -40,7 +40,7 @@ import re
 # PHASE 1: SETUP & PAGE CONFIG
 # ==========================================
 # layout="wide" makes it look professional and mobile-friendly
-st.set_page_config(page_title="Production Twin", page_icon="🤖", layout="wide"
+st.set_page_config(page_title="Production Twin", page_icon="🤖", layout="wide")
 
 #==========================================
 # PHASE 2: STATE & CUSTOMIZATION
